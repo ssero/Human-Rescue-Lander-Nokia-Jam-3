@@ -1,0 +1,6 @@
+devid=Markus Rosse
+devtitle=Markus Rosse
+gameid=Human Rescue Lander
+gametitle=Human Rescue Lander
+version=1.0
+icon=metadata/icon.png
