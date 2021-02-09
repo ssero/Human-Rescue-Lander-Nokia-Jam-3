@@ -1,6 +1,6 @@
 # Human Rescue Lander (Nokia Jam 3)
 
-[![Human Rescue Lander Video Link](http://img.youtube.com/vi/mSo2IYfajHs/0.jpg)](http://www.youtube.com/watch?v=mSo2IYfajHs "Human Rescue Lander Video")
+![Human Rescue Lander](https://github.com/ssero/Human-Rescue-Lander-Nokia-Jam-3/blob/main/HumanRescueLander.gif)
 
 This repo is for the sourcecode of the Nokia Jam 3 entry "Human Rescue Lander". You can play the game in the browser under the following link:
 https://ssero.itch.io/human-rescue-lander
